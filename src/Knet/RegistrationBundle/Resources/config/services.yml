@@ -1,0 +1,7 @@
+parameters:
+#    knet_registration.example.class: Knet\RegistrationBundle\Example
+
+services:
+#    knet_registration.example:
+#        class: %knet_registration.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

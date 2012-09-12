@@ -1,0 +1,5 @@
+[2012-08-29 15:50:14] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /" (uncaught exception) at /var/www/Symfony/vendor/symfony/src/Symfony/Bundle/FrameworkBundle/EventListener/RouterListener.php line 83 [] []
+[2012-08-29 15:59:09] request.INFO: Matched route "KnetRegistrationBundle_homepage" (parameters: "_controller": "Knet\RegistrationBundle\Controller\DefaultController::indexAction", "name": "Ryan", "_route": "KnetRegistrationBundle_homepage") [] []
+[2012-08-29 15:59:09] request.CRITICAL: InvalidArgumentException: The template "KnetRegistrationBundle:Default:index.html.twig.php" does not exist. (uncaught exception) at /var/www/Symfony/app/cache/prod/classes.php line 1895 [] []
+[2012-08-29 15:59:14] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /hello" (uncaught exception) at /var/www/Symfony/app/cache/prod/classes.php line 5094 [] []
+[2012-08-29 15:59:23] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /hello" (uncaught exception) at /var/www/Symfony/app/cache/prod/classes.php line 5094 [] []
